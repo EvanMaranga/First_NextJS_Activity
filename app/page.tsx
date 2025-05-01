@@ -117,10 +117,10 @@ export default function Home() {
             Student
           </a>
           <a
-            href="/books"
+            href="/cars"
             className="hover:underline hover:underline-offset-4"
           >
-            Book
+            Car
           </a>
         </div>
       </nav>
